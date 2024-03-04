@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "wfc"
 version = "0.1.0"
-description = "A minimalistic and verbose implementation of the wave function collapse algorithm in Python."
+description = "A compact and verbose implementation of the wave function collapse algorithm in Python."
 license = "MIT"
 authors = ["Umut Güçlü <u.guclu@donders.ru.nl>"]
 readme = "README.md"
