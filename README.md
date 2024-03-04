@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to wfc 👋</h1>
 <p>
-  <a href="https://www.npmjs.com/package/wfc" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/wfc.svg">
+  <a href="https://github.com/umguec/wfc" target="_blank">
+    <img alt="Version" src="https://img.shields.io/badge/github-v0.1.0-blue">
   </a>
   <a href="https://github.com/umguec/wfc?tab=MIT-1-ov-file#MIT-1-ov-file" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
