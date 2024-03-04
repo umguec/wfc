@@ -8,7 +8,7 @@
   </a>
 </p>
 
-> A minimalistic and verbose implementation of the wave function collapse algorithm in Python.
+> A minimalistic and verbose implementation of the [wave function collapse](https://github.com/mxgmn/WaveFunctionCollapse) algorithm in Python.
 
 ### 🏠 [Homepage](https://github.com/umguec/wfc)
 
